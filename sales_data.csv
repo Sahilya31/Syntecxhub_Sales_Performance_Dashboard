@@ -1,0 +1,501 @@
+Order_Date,Brand,Product,Category,Sales,Quantity,Region
+2023-04-20,Puma,Cap,Fashion,257451,2,Mumbai
+2023-01-15,Adidas,Tshirt,Fashion,973156,1,Delhi
+2023-03-22,Nike,Cap,Fashion,985933,4,Delhi
+2023-01-26,Zara,Tshirt,Fashion,638140,5,Mumbai
+2023-03-10,Zara,Tshirt,Fashion,838028,5,Bangalore
+2023-06-14,Zara,Cap,Fashion,100429,2,Delhi
+2023-04-06,Adidas,Shoes,Fashion,607587,4,Delhi
+2023-02-02,Adidas,Cap,Fashion,779223,5,Mumbai
+2023-01-24,Puma,Cap,Fashion,520329,5,Bangalore
+2023-02-27,Puma,Shoes,Fashion,600969,3,Bangalore
+2023-02-22,Puma,Tshirt,Fashion,881907,3,Delhi
+2023-02-07,Reebok,Tshirt,Fashion,118266,1,Bangalore
+2023-01-01,Adidas,Shoes,Fashion,453218,5,Delhi
+2023-02-09,Puma,Shoes,Fashion,100312,2,Bangalore
+2023-04-04,Nike,Tshirt,Fashion,571572,5,Bangalore
+2023-03-23,Under Armour,Cap,Fashion,577106,4,Bangalore
+2023-03-14,H&M,Tshirt,Fashion,293496,5,Bangalore
+2023-05-29,Zara,Shoes,Fashion,203976,3,Bangalore
+2023-02-02,Under Armour,Shoes,Fashion,467291,5,Mumbai
+2023-06-18,Nike,Shoes,Fashion,508259,5,Delhi
+2023-07-20,Nike,Cap,Fashion,540135,2,Mumbai
+2023-03-20,Puma,Cap,Fashion,951858,2,Mumbai
+2023-02-14,H&M,Shoes,Fashion,608437,3,Bangalore
+2023-04-30,H&M,Shoes,Fashion,631496,1,Mumbai
+2023-04-26,Zara,Shoes,Fashion,654507,4,Bangalore
+2023-07-10,Puma,Cap,Fashion,513381,1,Mumbai
+2023-05-30,Under Armour,Tshirt,Fashion,134142,5,Bangalore
+2023-03-13,Zara,Shoes,Fashion,920283,3,Mumbai
+2023-04-19,Nike,Shoes,Fashion,120250,4,Bangalore
+2023-05-16,Reebok,Tshirt,Fashion,209181,3,Bangalore
+2023-04-18,Under Armour,Shoes,Fashion,544647,2,Mumbai
+2023-04-07,Under Armour,Tshirt,Fashion,801035,4,Bangalore
+2023-06-16,Reebok,Tshirt,Fashion,448310,4,Delhi
+2023-07-16,Nike,Tshirt,Fashion,421465,1,Delhi
+2023-05-06,Zara,Cap,Fashion,444848,2,Mumbai
+2023-04-07,H&M,Tshirt,Fashion,442181,5,Bangalore
+2023-01-12,Puma,Cap,Fashion,294470,3,Mumbai
+2023-05-04,Under Armour,Shoes,Fashion,446114,4,Bangalore
+2023-01-11,H&M,Tshirt,Fashion,137002,1,Mumbai
+2023-05-24,Under Armour,Cap,Fashion,617905,3,Mumbai
+2023-05-04,Under Armour,Cap,Fashion,955698,5,Bangalore
+2023-04-10,Nike,Tshirt,Fashion,750625,4,Delhi
+2023-02-16,Reebok,Tshirt,Fashion,252248,5,Bangalore
+2023-03-27,Zara,Shoes,Fashion,599718,1,Delhi
+2023-01-21,Reebok,Cap,Fashion,819308,5,Mumbai
+2023-05-17,Adidas,Shoes,Fashion,133075,2,Mumbai
+2023-01-19,Reebok,Cap,Fashion,271180,5,Delhi
+2023-05-05,Puma,Tshirt,Fashion,732428,1,Bangalore
+2023-02-14,Adidas,Shoes,Fashion,796454,1,Mumbai
+2023-07-20,Under Armour,Tshirt,Fashion,726538,1,Mumbai
+2023-07-10,Adidas,Tshirt,Fashion,886133,3,Delhi
+2023-02-14,Adidas,Shoes,Fashion,389230,1,Mumbai
+2023-05-02,Reebok,Tshirt,Fashion,191405,1,Mumbai
+2023-07-10,Adidas,Tshirt,Fashion,938192,3,Bangalore
+2023-07-09,Under Armour,Tshirt,Fashion,447342,2,Bangalore
+2023-05-20,H&M,Shoes,Fashion,190238,1,Mumbai
+2023-02-14,Puma,Shoes,Fashion,513441,3,Bangalore
+2023-04-19,Adidas,Shoes,Fashion,715433,4,Bangalore
+2023-01-06,Under Armour,Tshirt,Fashion,323548,5,Bangalore
+2023-06-30,H&M,Cap,Fashion,842963,3,Mumbai
+2023-01-13,Adidas,Cap,Fashion,191529,4,Bangalore
+2023-07-16,H&M,Cap,Fashion,340030,4,Bangalore
+2023-04-06,Adidas,Shoes,Fashion,388969,5,Bangalore
+2023-05-23,H&M,Shoes,Fashion,188568,5,Mumbai
+2023-05-13,Zara,Tshirt,Fashion,502833,3,Bangalore
+2023-06-29,Puma,Tshirt,Fashion,882518,4,Mumbai
+2023-06-22,Under Armour,Shoes,Fashion,789496,3,Mumbai
+2023-07-01,Nike,Shoes,Fashion,471252,1,Delhi
+2023-06-08,Adidas,Tshirt,Fashion,981718,4,Delhi
+2023-03-25,Puma,Shoes,Fashion,237748,3,Mumbai
+2023-05-24,Zara,Tshirt,Fashion,288498,5,Bangalore
+2023-03-24,Zara,Tshirt,Fashion,573724,2,Bangalore
+2023-07-07,Reebok,Cap,Fashion,397071,1,Bangalore
+2023-02-20,Nike,Tshirt,Fashion,554319,1,Delhi
+2023-04-23,H&M,Cap,Fashion,893290,2,Mumbai
+2023-05-30,Under Armour,Cap,Fashion,278694,5,Delhi
+2023-04-02,Adidas,Shoes,Fashion,289118,1,Delhi
+2023-01-01,Under Armour,Shoes,Fashion,125658,4,Bangalore
+2023-07-16,Nike,Cap,Fashion,969784,2,Delhi
+2023-05-07,H&M,Tshirt,Fashion,851673,4,Mumbai
+2023-01-09,Nike,Tshirt,Fashion,306778,5,Mumbai
+2023-03-26,Zara,Shoes,Fashion,903648,4,Delhi
+2023-04-25,Under Armour,Tshirt,Fashion,889483,5,Delhi
+2023-04-20,Puma,Tshirt,Fashion,861986,2,Bangalore
+2023-04-07,Puma,Shoes,Fashion,176099,3,Mumbai
+2023-07-09,H&M,Cap,Fashion,837281,4,Bangalore
+2023-02-09,Nike,Tshirt,Fashion,218756,1,Delhi
+2023-07-05,Adidas,Shoes,Fashion,937657,3,Mumbai
+2023-05-06,Puma,Shoes,Fashion,127967,1,Bangalore
+2023-05-08,Reebok,Shoes,Fashion,855901,1,Bangalore
+2023-07-06,Under Armour,Cap,Fashion,972452,4,Delhi
+2023-05-07,Reebok,Tshirt,Fashion,703659,1,Delhi
+2023-06-22,Puma,Tshirt,Fashion,262706,4,Bangalore
+2023-03-10,Reebok,Cap,Fashion,607232,5,Mumbai
+2023-01-14,Nike,Shoes,Fashion,293120,1,Mumbai
+2023-07-10,Reebok,Cap,Fashion,134543,4,Mumbai
+2023-04-23,Reebok,Cap,Fashion,828894,1,Mumbai
+2023-05-05,Zara,Tshirt,Fashion,889492,1,Bangalore
+2023-02-03,Adidas,Shoes,Fashion,334438,2,Bangalore
+2023-03-31,Adidas,Cap,Fashion,518129,3,Bangalore
+2023-04-15,Under Armour,Shoes,Fashion,846175,2,Mumbai
+2023-01-06,H&M,Shoes,Fashion,633193,5,Bangalore
+2023-02-05,Adidas,Cap,Fashion,846158,1,Delhi
+2023-06-14,Reebok,Shoes,Fashion,355657,5,Delhi
+2023-03-12,H&M,Tshirt,Fashion,626019,5,Mumbai
+2023-05-16,Zara,Tshirt,Fashion,191099,5,Bangalore
+2023-07-02,H&M,Shoes,Fashion,490904,3,Delhi
+2023-07-13,Adidas,Shoes,Fashion,167012,5,Bangalore
+2023-03-12,Zara,Cap,Fashion,532549,2,Bangalore
+2023-04-23,Puma,Tshirt,Fashion,790665,3,Bangalore
+2023-02-27,Puma,Cap,Fashion,519787,5,Delhi
+2023-05-08,Puma,Shoes,Fashion,367154,5,Mumbai
+2023-06-22,Puma,Shoes,Fashion,524435,1,Mumbai
+2023-04-03,Adidas,Tshirt,Fashion,267300,3,Delhi
+2023-06-09,Zara,Tshirt,Fashion,615153,5,Delhi
+2023-02-03,Reebok,Cap,Fashion,395189,4,Delhi
+2023-06-02,Adidas,Cap,Fashion,723972,2,Delhi
+2023-01-07,Nike,Cap,Fashion,605696,1,Bangalore
+2023-06-17,Nike,Shoes,Fashion,485613,5,Mumbai
+2023-04-03,Zara,Shoes,Fashion,131095,2,Mumbai
+2023-04-26,Reebok,Shoes,Fashion,493122,5,Delhi
+2023-01-16,Under Armour,Cap,Fashion,942058,1,Mumbai
+2023-06-08,H&M,Tshirt,Fashion,226640,1,Mumbai
+2023-05-08,Adidas,Tshirt,Fashion,420395,5,Bangalore
+2023-06-30,H&M,Cap,Fashion,595067,3,Bangalore
+2023-03-17,Nike,Shoes,Fashion,598669,5,Bangalore
+2023-07-07,H&M,Tshirt,Fashion,792784,4,Delhi
+2023-02-23,H&M,Shoes,Fashion,503471,1,Mumbai
+2023-04-04,Puma,Tshirt,Fashion,296972,1,Delhi
+2023-01-18,Reebok,Tshirt,Fashion,837026,5,Delhi
+2023-05-28,Zara,Shoes,Fashion,306340,4,Delhi
+2023-04-16,Reebok,Cap,Fashion,329146,1,Bangalore
+2023-01-22,Reebok,Cap,Fashion,198426,5,Delhi
+2023-05-19,Nike,Cap,Fashion,695325,2,Delhi
+2023-05-22,Reebok,Cap,Fashion,139106,5,Delhi
+2023-01-12,Puma,Shoes,Fashion,923715,1,Mumbai
+2023-01-06,Under Armour,Tshirt,Fashion,470081,4,Delhi
+2023-07-05,H&M,Cap,Fashion,455224,2,Bangalore
+2023-06-02,Under Armour,Tshirt,Fashion,159521,5,Delhi
+2023-01-29,Reebok,Tshirt,Fashion,894855,1,Delhi
+2023-02-09,Zara,Cap,Fashion,693341,1,Mumbai
+2023-01-08,Puma,Shoes,Fashion,694721,4,Mumbai
+2023-07-15,Puma,Cap,Fashion,116536,3,Mumbai
+2023-04-09,Under Armour,Tshirt,Fashion,120651,4,Mumbai
+2023-01-24,Under Armour,Cap,Fashion,209549,5,Bangalore
+2023-03-01,Zara,Cap,Fashion,139958,4,Delhi
+2023-03-27,Adidas,Shoes,Fashion,611512,3,Delhi
+2023-07-18,Reebok,Shoes,Fashion,160693,1,Mumbai
+2023-03-09,Reebok,Cap,Fashion,407672,3,Bangalore
+2023-05-12,Puma,Shoes,Fashion,866998,1,Mumbai
+2023-03-02,Puma,Cap,Fashion,254889,2,Bangalore
+2023-06-26,Reebok,Cap,Fashion,984578,2,Delhi
+2023-01-18,Puma,Shoes,Fashion,671708,4,Mumbai
+2023-06-23,Puma,Tshirt,Fashion,919662,5,Delhi
+2023-02-28,Reebok,Tshirt,Fashion,123458,4,Mumbai
+2023-04-22,Adidas,Tshirt,Fashion,218334,3,Bangalore
+2023-07-20,Nike,Cap,Fashion,146496,4,Delhi
+2023-05-07,Nike,Shoes,Fashion,404612,1,Delhi
+2023-06-05,Nike,Shoes,Fashion,325937,5,Mumbai
+2023-05-27,Nike,Tshirt,Fashion,492670,2,Bangalore
+2023-02-10,Zara,Shoes,Fashion,104175,1,Delhi
+2023-03-13,H&M,Shoes,Fashion,895883,1,Bangalore
+2023-06-04,Puma,Tshirt,Fashion,527275,5,Bangalore
+2023-02-17,Adidas,Tshirt,Fashion,722962,3,Mumbai
+2023-05-14,Puma,Cap,Fashion,824788,4,Delhi
+2023-01-15,Adidas,Tshirt,Fashion,803249,3,Mumbai
+2023-06-05,Nike,Cap,Fashion,318719,4,Bangalore
+2023-05-22,Reebok,Tshirt,Fashion,933558,4,Bangalore
+2023-05-14,H&M,Tshirt,Fashion,867662,2,Bangalore
+2023-01-15,Nike,Tshirt,Fashion,650383,5,Delhi
+2023-06-12,H&M,Tshirt,Fashion,635485,2,Bangalore
+2023-02-04,Adidas,Tshirt,Fashion,434601,5,Delhi
+2023-02-01,Adidas,Cap,Fashion,195390,4,Mumbai
+2023-07-13,Reebok,Shoes,Fashion,232764,3,Mumbai
+2023-05-25,H&M,Cap,Fashion,511137,5,Bangalore
+2023-06-12,Puma,Tshirt,Fashion,473193,1,Bangalore
+2023-03-30,Nike,Shoes,Fashion,180908,2,Bangalore
+2023-04-11,Adidas,Tshirt,Fashion,131308,2,Delhi
+2023-03-18,Adidas,Shoes,Fashion,947788,2,Delhi
+2023-05-25,Nike,Tshirt,Fashion,745925,5,Delhi
+2023-04-25,H&M,Cap,Fashion,663798,3,Delhi
+2023-04-28,Nike,Shoes,Fashion,387080,1,Mumbai
+2023-04-21,Puma,Cap,Fashion,266285,5,Bangalore
+2023-05-16,Nike,Cap,Fashion,383299,1,Delhi
+2023-07-18,Zara,Tshirt,Fashion,299924,2,Mumbai
+2023-05-13,Puma,Tshirt,Fashion,259677,4,Bangalore
+2023-02-21,Zara,Shoes,Fashion,591952,2,Mumbai
+2023-02-09,Zara,Cap,Fashion,294586,4,Bangalore
+2023-06-22,Puma,Tshirt,Fashion,885961,2,Mumbai
+2023-04-24,Zara,Tshirt,Fashion,541419,4,Mumbai
+2023-05-01,Adidas,Shoes,Fashion,174887,1,Mumbai
+2023-02-09,Adidas,Shoes,Fashion,252609,1,Bangalore
+2023-02-13,Reebok,Shoes,Fashion,345177,4,Mumbai
+2023-04-26,Under Armour,Shoes,Fashion,714667,1,Delhi
+2023-01-30,Nike,Tshirt,Fashion,442389,1,Bangalore
+2023-03-23,Nike,Cap,Fashion,218295,4,Mumbai
+2023-02-23,Reebok,Cap,Fashion,657199,4,Bangalore
+2023-05-25,Adidas,Cap,Fashion,980459,4,Mumbai
+2023-04-03,Puma,Cap,Fashion,707172,1,Bangalore
+2023-05-01,H&M,Tshirt,Fashion,293638,1,Bangalore
+2023-07-07,Zara,Cap,Fashion,130808,1,Mumbai
+2023-02-20,Nike,Cap,Fashion,868606,4,Mumbai
+2023-03-08,Under Armour,Shoes,Fashion,638024,1,Bangalore
+2023-01-03,Nike,Cap,Fashion,591988,1,Delhi
+2023-06-21,H&M,Shoes,Fashion,271929,3,Mumbai
+2023-04-11,Puma,Cap,Fashion,661588,3,Delhi
+2023-01-05,Nike,Cap,Fashion,886483,4,Bangalore
+2023-06-12,Puma,Cap,Fashion,444486,4,Delhi
+2023-03-16,Reebok,Shoes,Fashion,516759,3,Bangalore
+2023-03-14,Under Armour,Tshirt,Fashion,682355,4,Bangalore
+2023-07-01,Reebok,Tshirt,Fashion,434600,1,Delhi
+2023-02-04,H&M,Tshirt,Fashion,851269,4,Delhi
+2023-03-12,Nike,Tshirt,Fashion,502583,4,Delhi
+2023-01-28,Adidas,Cap,Fashion,141047,1,Bangalore
+2023-01-21,H&M,Cap,Fashion,420241,1,Delhi
+2023-07-20,H&M,Tshirt,Fashion,580461,1,Delhi
+2023-06-20,Adidas,Shoes,Fashion,810819,5,Bangalore
+2023-02-25,Zara,Shoes,Fashion,545163,4,Bangalore
+2023-05-29,Zara,Shoes,Fashion,146828,1,Mumbai
+2023-05-27,Nike,Cap,Fashion,112670,5,Mumbai
+2023-04-30,Reebok,Cap,Fashion,191197,1,Bangalore
+2023-05-27,Nike,Shoes,Fashion,304990,4,Bangalore
+2023-04-21,Zara,Cap,Fashion,496607,5,Mumbai
+2023-05-31,Zara,Cap,Fashion,305648,1,Mumbai
+2023-07-04,H&M,Cap,Fashion,550909,5,Delhi
+2023-02-04,H&M,Shoes,Fashion,612262,5,Delhi
+2023-07-16,Adidas,Cap,Fashion,445084,2,Mumbai
+2023-06-14,Nike,Cap,Fashion,886412,5,Mumbai
+2023-03-17,H&M,Shoes,Fashion,944111,1,Bangalore
+2023-06-14,H&M,Tshirt,Fashion,720444,4,Delhi
+2023-05-17,Reebok,Shoes,Fashion,222679,3,Delhi
+2023-07-08,Adidas,Cap,Fashion,213119,4,Delhi
+2023-05-30,Adidas,Cap,Fashion,410478,5,Mumbai
+2023-01-07,Adidas,Cap,Fashion,854892,3,Mumbai
+2023-06-27,Puma,Cap,Fashion,935746,3,Delhi
+2023-01-12,Under Armour,Shoes,Fashion,423137,5,Bangalore
+2023-05-12,H&M,Cap,Fashion,966390,2,Mumbai
+2023-04-13,Adidas,Tshirt,Fashion,329063,2,Delhi
+2023-04-24,Adidas,Cap,Fashion,959012,4,Bangalore
+2023-06-02,H&M,Shoes,Fashion,146383,2,Delhi
+2023-04-14,Under Armour,Tshirt,Fashion,588643,3,Bangalore
+2023-01-11,Puma,Tshirt,Fashion,812939,3,Delhi
+2023-01-26,H&M,Shoes,Fashion,118181,2,Delhi
+2023-01-22,Under Armour,Tshirt,Fashion,325458,2,Delhi
+2023-04-17,Nike,Tshirt,Fashion,933876,2,Delhi
+2023-01-01,Nike,Cap,Fashion,573761,1,Mumbai
+2023-06-05,Adidas,Tshirt,Fashion,339339,4,Delhi
+2023-03-08,Nike,Tshirt,Fashion,225620,2,Delhi
+2023-03-08,Puma,Tshirt,Fashion,384305,2,Mumbai
+2023-02-16,Zara,Tshirt,Fashion,904856,2,Mumbai
+2023-07-13,Reebok,Tshirt,Fashion,548277,1,Bangalore
+2023-03-03,Adidas,Tshirt,Fashion,922135,2,Mumbai
+2023-05-29,Reebok,Tshirt,Fashion,764940,4,Delhi
+2023-04-06,Puma,Shoes,Fashion,596126,2,Mumbai
+2023-05-21,Zara,Cap,Fashion,406175,2,Bangalore
+2023-05-26,Under Armour,Cap,Fashion,777166,1,Delhi
+2023-02-11,Zara,Cap,Fashion,654401,2,Bangalore
+2023-07-18,Under Armour,Tshirt,Fashion,353271,3,Mumbai
+2023-03-12,Reebok,Tshirt,Fashion,579099,4,Bangalore
+2023-06-22,H&M,Cap,Fashion,108305,5,Bangalore
+2023-07-04,Adidas,Cap,Fashion,181675,2,Mumbai
+2023-03-06,Puma,Shoes,Fashion,604369,1,Mumbai
+2023-05-12,Under Armour,Shoes,Fashion,249125,4,Delhi
+2023-01-09,Reebok,Tshirt,Fashion,192776,1,Delhi
+2023-06-25,Puma,Shoes,Fashion,370197,1,Delhi
+2023-05-13,Under Armour,Tshirt,Fashion,641455,5,Mumbai
+2023-06-06,Reebok,Tshirt,Fashion,107815,4,Bangalore
+2023-07-08,Nike,Tshirt,Fashion,966506,3,Mumbai
+2023-03-17,H&M,Shoes,Fashion,766780,3,Delhi
+2023-01-07,Reebok,Cap,Fashion,315624,5,Bangalore
+2023-04-16,Zara,Cap,Fashion,708188,2,Bangalore
+2023-01-20,Nike,Cap,Fashion,534527,5,Mumbai
+2023-03-24,Zara,Shoes,Fashion,916662,5,Delhi
+2023-01-10,Under Armour,Cap,Fashion,486622,3,Mumbai
+2023-04-25,H&M,Cap,Fashion,886800,2,Mumbai
+2023-03-14,Reebok,Cap,Fashion,297363,2,Mumbai
+2023-05-23,H&M,Tshirt,Fashion,195132,1,Mumbai
+2023-03-29,Under Armour,Tshirt,Fashion,696061,3,Delhi
+2023-01-18,Under Armour,Shoes,Fashion,962758,4,Bangalore
+2023-06-06,Reebok,Shoes,Fashion,834923,5,Delhi
+2023-06-29,Under Armour,Tshirt,Fashion,688455,4,Delhi
+2023-06-28,Nike,Tshirt,Fashion,148618,5,Mumbai
+2023-04-01,Puma,Cap,Fashion,243096,3,Mumbai
+2023-02-08,Adidas,Cap,Fashion,690493,5,Mumbai
+2023-04-16,H&M,Tshirt,Fashion,704472,1,Mumbai
+2023-01-22,Reebok,Tshirt,Fashion,861521,3,Bangalore
+2023-04-26,Puma,Shoes,Fashion,462842,4,Delhi
+2023-02-07,Puma,Cap,Fashion,119379,4,Delhi
+2023-04-02,Puma,Shoes,Fashion,617444,5,Bangalore
+2023-01-07,Nike,Cap,Fashion,738070,2,Mumbai
+2023-03-26,Puma,Tshirt,Fashion,579631,2,Bangalore
+2023-02-25,H&M,Shoes,Fashion,420050,3,Bangalore
+2023-07-12,Reebok,Tshirt,Fashion,267066,1,Bangalore
+2023-03-02,Zara,Tshirt,Fashion,133884,1,Mumbai
+2023-04-13,H&M,Cap,Fashion,692714,3,Delhi
+2023-02-25,Reebok,Shoes,Fashion,283364,1,Delhi
+2023-06-16,Adidas,Shoes,Fashion,211942,4,Mumbai
+2023-06-25,Reebok,Tshirt,Fashion,796456,2,Bangalore
+2023-05-22,Under Armour,Shoes,Fashion,469890,1,Bangalore
+2023-03-16,Reebok,Tshirt,Fashion,304554,2,Mumbai
+2023-03-23,Puma,Shoes,Fashion,355590,1,Delhi
+2023-06-28,H&M,Shoes,Fashion,827759,2,Bangalore
+2023-07-17,Puma,Cap,Fashion,811860,1,Delhi
+2023-07-15,Puma,Tshirt,Fashion,997659,1,Mumbai
+2023-02-11,H&M,Shoes,Fashion,657857,3,Mumbai
+2023-04-29,Nike,Tshirt,Fashion,625930,5,Mumbai
+2023-07-07,Adidas,Shoes,Fashion,786507,2,Mumbai
+2023-07-02,Zara,Shoes,Fashion,243084,1,Bangalore
+2023-03-19,Zara,Shoes,Fashion,349941,4,Mumbai
+2023-01-28,Under Armour,Shoes,Fashion,172289,4,Bangalore
+2023-03-13,Nike,Shoes,Fashion,250413,1,Mumbai
+2023-03-24,Nike,Cap,Fashion,424745,5,Delhi
+2023-04-07,Puma,Tshirt,Fashion,359433,5,Mumbai
+2023-04-14,Reebok,Shoes,Fashion,655141,2,Bangalore
+2023-04-29,Puma,Shoes,Fashion,136417,1,Delhi
+2023-02-02,Puma,Cap,Fashion,836032,5,Bangalore
+2023-01-21,Under Armour,Shoes,Fashion,268456,1,Bangalore
+2023-02-24,Nike,Shoes,Fashion,977954,4,Delhi
+2023-01-09,H&M,Shoes,Fashion,340421,5,Delhi
+2023-06-19,Zara,Shoes,Fashion,453477,1,Delhi
+2023-04-16,Adidas,Tshirt,Fashion,915264,1,Delhi
+2023-01-11,Zara,Tshirt,Fashion,826918,2,Bangalore
+2023-05-29,Puma,Shoes,Fashion,302342,5,Delhi
+2023-07-15,Reebok,Cap,Fashion,265355,3,Mumbai
+2023-06-30,Nike,Cap,Fashion,981353,4,Delhi
+2023-05-17,Nike,Tshirt,Fashion,205699,2,Delhi
+2023-01-06,Reebok,Tshirt,Fashion,483041,4,Delhi
+2023-07-02,Under Armour,Tshirt,Fashion,790294,5,Bangalore
+2023-03-20,H&M,Tshirt,Fashion,743961,1,Bangalore
+2023-01-17,Zara,Tshirt,Fashion,881509,1,Mumbai
+2023-07-05,Nike,Tshirt,Fashion,124876,3,Mumbai
+2023-02-01,Zara,Tshirt,Fashion,155966,4,Bangalore
+2023-06-07,Reebok,Cap,Fashion,377757,5,Delhi
+2023-03-19,Adidas,Cap,Fashion,955519,5,Delhi
+2023-07-17,Puma,Cap,Fashion,132444,3,Mumbai
+2023-01-13,Reebok,Shoes,Fashion,674559,5,Mumbai
+2023-06-04,Nike,Cap,Fashion,976906,3,Mumbai
+2023-05-20,Puma,Shoes,Fashion,481608,5,Mumbai
+2023-07-08,Puma,Tshirt,Fashion,492281,4,Mumbai
+2023-07-17,Reebok,Cap,Fashion,657055,5,Mumbai
+2023-06-18,Zara,Tshirt,Fashion,453022,5,Mumbai
+2023-07-11,Adidas,Cap,Fashion,483512,4,Bangalore
+2023-03-24,Nike,Cap,Fashion,117451,3,Delhi
+2023-01-11,Adidas,Tshirt,Fashion,723939,1,Mumbai
+2023-05-06,Under Armour,Cap,Fashion,337414,1,Bangalore
+2023-04-11,Under Armour,Shoes,Fashion,622673,1,Mumbai
+2023-01-29,Reebok,Tshirt,Fashion,587604,5,Delhi
+2023-03-13,Puma,Shoes,Fashion,981241,3,Bangalore
+2023-07-14,Puma,Tshirt,Fashion,584714,4,Bangalore
+2023-05-01,Under Armour,Tshirt,Fashion,363543,2,Delhi
+2023-04-25,Zara,Shoes,Fashion,420343,1,Mumbai
+2023-07-11,Reebok,Tshirt,Fashion,232384,5,Mumbai
+2023-01-31,Puma,Shoes,Fashion,899642,4,Mumbai
+2023-02-06,Puma,Cap,Fashion,608445,3,Bangalore
+2023-04-10,Adidas,Tshirt,Fashion,750197,3,Bangalore
+2023-03-13,Under Armour,Shoes,Fashion,711403,5,Mumbai
+2023-01-19,Puma,Cap,Fashion,111525,4,Mumbai
+2023-02-16,Zara,Tshirt,Fashion,794737,1,Bangalore
+2023-04-09,Puma,Tshirt,Fashion,193398,4,Bangalore
+2023-02-27,H&M,Shoes,Fashion,381480,1,Delhi
+2023-01-19,Reebok,Shoes,Fashion,365319,3,Delhi
+2023-06-16,Nike,Shoes,Fashion,964129,3,Bangalore
+2023-01-24,Under Armour,Tshirt,Fashion,694086,3,Delhi
+2023-02-21,H&M,Cap,Fashion,355156,1,Delhi
+2023-03-31,Nike,Shoes,Fashion,137135,3,Mumbai
+2023-05-16,Reebok,Cap,Fashion,699191,5,Mumbai
+2023-06-23,Nike,Tshirt,Fashion,199088,4,Mumbai
+2023-03-10,Reebok,Shoes,Fashion,493726,3,Mumbai
+2023-01-12,Puma,Shoes,Fashion,386162,5,Delhi
+2023-03-03,Puma,Tshirt,Fashion,893906,4,Delhi
+2023-05-11,Nike,Tshirt,Fashion,819056,5,Mumbai
+2023-02-21,Reebok,Cap,Fashion,994719,4,Mumbai
+2023-05-31,Zara,Cap,Fashion,635526,1,Bangalore
+2023-07-03,Reebok,Tshirt,Fashion,221325,1,Mumbai
+2023-02-25,Puma,Cap,Fashion,596980,5,Delhi
+2023-04-20,Reebok,Tshirt,Fashion,533455,2,Bangalore
+2023-04-30,H&M,Shoes,Fashion,720526,4,Delhi
+2023-03-18,H&M,Cap,Fashion,539889,3,Mumbai
+2023-04-23,Nike,Tshirt,Fashion,506727,5,Delhi
+2023-01-30,H&M,Cap,Fashion,993928,5,Mumbai
+2023-03-22,Nike,Tshirt,Fashion,470047,5,Mumbai
+2023-06-07,Under Armour,Tshirt,Fashion,788245,2,Bangalore
+2023-05-21,Under Armour,Shoes,Fashion,416725,5,Bangalore
+2023-06-04,Adidas,Cap,Fashion,426112,3,Mumbai
+2023-07-09,Zara,Tshirt,Fashion,299014,4,Delhi
+2023-05-11,Nike,Shoes,Fashion,158378,4,Bangalore
+2023-01-10,Puma,Shoes,Fashion,938958,5,Mumbai
+2023-04-20,Puma,Cap,Fashion,516094,5,Bangalore
+2023-05-05,Zara,Shoes,Fashion,935798,4,Delhi
+2023-07-09,Adidas,Tshirt,Fashion,184134,5,Bangalore
+2023-04-02,H&M,Tshirt,Fashion,961271,3,Delhi
+2023-06-23,Reebok,Tshirt,Fashion,267866,5,Delhi
+2023-05-06,Adidas,Cap,Fashion,230112,1,Mumbai
+2023-02-10,H&M,Tshirt,Fashion,211353,2,Delhi
+2023-01-17,H&M,Cap,Fashion,525671,3,Mumbai
+2023-02-22,H&M,Shoes,Fashion,956469,5,Bangalore
+2023-02-08,Puma,Shoes,Fashion,272660,1,Delhi
+2023-05-19,Puma,Tshirt,Fashion,991334,2,Bangalore
+2023-06-19,H&M,Cap,Fashion,905873,5,Delhi
+2023-03-10,Adidas,Tshirt,Fashion,455204,5,Bangalore
+2023-02-15,Under Armour,Tshirt,Fashion,205329,1,Delhi
+2023-02-04,Adidas,Tshirt,Fashion,288833,2,Bangalore
+2023-05-25,Zara,Tshirt,Fashion,939447,1,Bangalore
+2023-02-25,Nike,Shoes,Fashion,251617,4,Delhi
+2023-02-25,Puma,Cap,Fashion,505151,1,Mumbai
+2023-05-15,Under Armour,Tshirt,Fashion,173231,3,Delhi
+2023-02-19,Zara,Shoes,Fashion,150845,2,Bangalore
+2023-02-17,Under Armour,Tshirt,Fashion,452109,1,Delhi
+2023-06-24,Nike,Cap,Fashion,474597,1,Delhi
+2023-01-19,H&M,Cap,Fashion,862000,3,Bangalore
+2023-01-02,Reebok,Shoes,Fashion,503686,5,Mumbai
+2023-03-14,Zara,Tshirt,Fashion,224923,2,Bangalore
+2023-04-02,Nike,Shoes,Fashion,889726,1,Delhi
+2023-06-29,H&M,Shoes,Fashion,635768,1,Mumbai
+2023-03-16,H&M,Shoes,Fashion,178042,5,Mumbai
+2023-05-01,Adidas,Cap,Fashion,660688,5,Delhi
+2023-04-01,Zara,Cap,Fashion,312208,4,Bangalore
+2023-06-04,Puma,Cap,Fashion,811606,2,Mumbai
+2023-02-15,Puma,Cap,Fashion,174202,3,Delhi
+2023-02-10,Adidas,Shoes,Fashion,695233,3,Delhi
+2023-05-13,H&M,Shoes,Fashion,648937,5,Mumbai
+2023-01-29,Under Armour,Shoes,Fashion,927269,2,Mumbai
+2023-04-20,Reebok,Tshirt,Fashion,303841,4,Mumbai
+2023-02-18,H&M,Tshirt,Fashion,511702,5,Bangalore
+2023-05-30,Zara,Cap,Fashion,119900,3,Mumbai
+2023-05-03,H&M,Shoes,Fashion,440745,2,Mumbai
+2023-04-13,Reebok,Cap,Fashion,874732,2,Mumbai
+2023-04-02,Puma,Tshirt,Fashion,715464,5,Delhi
+2023-05-24,Zara,Cap,Fashion,560262,3,Mumbai
+2023-05-31,H&M,Tshirt,Fashion,992187,5,Bangalore
+2023-05-23,Adidas,Cap,Fashion,900401,3,Mumbai
+2023-01-31,H&M,Tshirt,Fashion,393284,2,Mumbai
+2023-07-08,Under Armour,Shoes,Fashion,309528,3,Mumbai
+2023-07-02,Under Armour,Shoes,Fashion,321922,3,Mumbai
+2023-01-24,Under Armour,Shoes,Fashion,713200,5,Bangalore
+2023-04-12,Nike,Tshirt,Fashion,679036,4,Mumbai
+2023-05-07,Zara,Shoes,Fashion,988868,5,Mumbai
+2023-07-13,Adidas,Tshirt,Fashion,881834,2,Mumbai
+2023-05-01,Puma,Tshirt,Fashion,407150,1,Mumbai
+2023-07-04,H&M,Shoes,Fashion,700987,1,Mumbai
+2023-04-27,H&M,Tshirt,Fashion,894784,2,Mumbai
+2023-07-11,H&M,Tshirt,Fashion,861403,4,Bangalore
+2023-03-16,Zara,Cap,Fashion,766925,3,Delhi
+2023-05-28,H&M,Cap,Fashion,684932,4,Bangalore
+2023-03-03,Nike,Cap,Fashion,760131,2,Mumbai
+2023-04-17,H&M,Tshirt,Fashion,737898,1,Mumbai
+2023-04-25,Under Armour,Shoes,Fashion,176721,3,Delhi
+2023-04-09,Under Armour,Cap,Fashion,773589,4,Bangalore
+2023-01-22,Under Armour,Shoes,Fashion,228997,5,Delhi
+2023-03-23,Nike,Cap,Fashion,620093,5,Mumbai
+2023-04-26,Under Armour,Tshirt,Fashion,726633,3,Mumbai
+2023-07-01,H&M,Shoes,Fashion,658431,3,Delhi
+2023-01-06,Zara,Shoes,Fashion,210001,4,Delhi
+2023-06-18,Zara,Tshirt,Fashion,988418,5,Mumbai
+2023-07-14,Nike,Tshirt,Fashion,249254,1,Mumbai
+2023-01-31,Adidas,Tshirt,Fashion,861266,1,Mumbai
+2023-05-13,H&M,Cap,Fashion,254358,2,Delhi
+2023-01-12,Zara,Shoes,Fashion,570245,3,Mumbai
+2023-05-11,H&M,Tshirt,Fashion,290638,3,Bangalore
+2023-05-10,Reebok,Cap,Fashion,115894,4,Delhi
+2023-07-14,H&M,Cap,Fashion,771180,3,Mumbai
+2023-04-03,H&M,Shoes,Fashion,190462,2,Bangalore
+2023-04-01,Adidas,Tshirt,Fashion,966586,1,Delhi
+2023-06-12,Under Armour,Tshirt,Fashion,190295,3,Mumbai
+2023-05-08,Puma,Shoes,Fashion,631500,3,Delhi
+2023-03-22,Adidas,Cap,Fashion,297702,4,Delhi
+2023-07-05,Under Armour,Shoes,Fashion,887985,5,Mumbai
+2023-05-19,Zara,Shoes,Fashion,319609,1,Mumbai
+2023-04-08,Zara,Shoes,Fashion,595415,1,Delhi
+2023-05-25,Puma,Tshirt,Fashion,499690,1,Bangalore
+2023-06-07,Nike,Shoes,Fashion,745608,4,Delhi
+2023-03-09,Adidas,Tshirt,Fashion,585611,2,Bangalore
+2023-07-07,Puma,Tshirt,Fashion,673299,3,Bangalore
+2023-02-20,Adidas,Shoes,Fashion,696106,4,Bangalore
+2023-05-28,Nike,Tshirt,Fashion,478752,5,Mumbai
+2023-07-14,Zara,Cap,Fashion,154935,3,Bangalore
+2023-01-27,Zara,Tshirt,Fashion,343187,3,Bangalore
+2023-02-27,H&M,Tshirt,Fashion,282320,4,Bangalore
+2023-07-14,Reebok,Cap,Fashion,646503,5,Mumbai
+2023-03-29,Zara,Tshirt,Fashion,552543,3,Delhi
+2023-02-02,Under Armour,Tshirt,Fashion,589473,1,Delhi
+2023-02-22,H&M,Tshirt,Fashion,968672,1,Bangalore
+2023-01-04,Zara,Shoes,Fashion,214844,5,Mumbai
+2023-03-23,Under Armour,Shoes,Fashion,708755,1,Bangalore
+2023-01-27,Puma,Cap,Fashion,190347,5,Bangalore
+2023-07-16,H&M,Cap,Fashion,278512,5,Bangalore
+2023-04-08,Nike,Shoes,Fashion,719223,1,Delhi
+2023-07-01,Nike,Tshirt,Fashion,144655,1,Bangalore
+2023-03-19,Nike,Tshirt,Fashion,446316,3,Delhi
+2023-01-14,Zara,Shoes,Fashion,577951,3,Mumbai
+2023-05-15,Reebok,Cap,Fashion,336378,4,Delhi
+2023-06-30,Under Armour,Shoes,Fashion,606525,3,Bangalore
+2023-03-11,Puma,Tshirt,Fashion,461605,4,Bangalore
+2023-04-16,H&M,Tshirt,Fashion,450196,5,Mumbai
+2023-02-15,Nike,Cap,Fashion,660869,5,Delhi
+2023-02-24,Nike,Shoes,Fashion,205598,3,Delhi
+2023-02-25,Nike,Cap,Fashion,414922,4,Mumbai
+2023-03-12,H&M,Tshirt,Fashion,910784,3,Mumbai
+2023-05-19,Reebok,Shoes,Fashion,361344,2,Bangalore
+2023-01-09,Puma,Shoes,Fashion,879341,3,Delhi
