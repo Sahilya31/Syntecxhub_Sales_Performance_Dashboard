@@ -29,3 +29,4 @@ df = pd.DataFrame(data, columns=[
 df.to_csv("sales_data.csv", index=False)
 
 print("✅ Large dataset generated!")
+# Updated for Syntecxhub internship task
