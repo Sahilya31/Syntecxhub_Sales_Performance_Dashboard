@@ -52,3 +52,4 @@ ax2.hist(df['Sales'], bins=10)
 ax2.set_title("Sales Distribution")
 
 st.pyplot(fig2)
+# Last updated: June 2026
